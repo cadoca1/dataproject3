@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+psycopg2
+requests
+tweepy
+joblib
+tqdm
+xgboost
+scikit-learn==0.22.2.post1
